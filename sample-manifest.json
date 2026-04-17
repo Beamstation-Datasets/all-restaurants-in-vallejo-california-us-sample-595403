@@ -1,0 +1,12 @@
+{
+  "export_job_id": "4573b700-0998-4ab6-843f-e0e911cd589d",
+  "id_short": 595403,
+  "published_at": "2026-04-17T07:26:15Z",
+  "repo_name": "all-restaurants-in-vallejo-california-us-sample-595403",
+  "sample_asset_name": "beamstation_595403_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/595403/beamstation_595403_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 18,
+  "sample_sha256": "2dfc5769724c3defa4a50ac6f64cb226fd04de34eaaea152da9ae24c323e81aa",
+  "sample_size_bytes": 47618,
+  "total_records": 192
+}
