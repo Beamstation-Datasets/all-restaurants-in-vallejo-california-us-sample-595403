@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Full restaurant census covering Vallejo, California with a population of over 126k. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Vallejo, California, US",
-  "export_job_id": "4573b700-0998-4ab6-843f-e0e911cd589d",
+  "export_job_id": "123dc4a2-629b-431b-ac1d-4e204e3a2afc",
   "github_org": "Beamstation-Datasets",
   "id_short": 595403,
   "location_name": "Vallejo",
   "location_type": "city",
   "repo_name": "all-restaurants-in-vallejo-california-us-sample-595403",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/595403/beamstation_595403_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.38,
+  "sample_pct": 9.52,
   "sample_records": 18,
   "sample_sha256": "2dfc5769724c3defa4a50ac6f64cb226fd04de34eaaea152da9ae24c323e81aa",
   "sample_size_bytes": 47618,
-  "total_records": 192,
-  "updated_at": "2026-04-09T10:31:03.536407+00:00"
+  "total_records": 189,
+  "updated_at": "2026-04-16T10:23:23.788353+00:00"
 }
